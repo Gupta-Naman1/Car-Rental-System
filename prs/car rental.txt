@@ -1,0 +1,8 @@
+DL-8C-2258    Maruti    Swift     2013    4    Grey     AC    M    2500
+DL-8C-0010    Kia       Seltoz    2018    5    Black    AC    A    2500
+DL-4C-4003    Maruti    Breeza    2015    4    White    AC    M    2200
+DL-2C-1010    Honda     City      2015    5    Grey     AC    A    2400
+DL-4C-6736    Hyundai   I-20      2014    4    Grey     AC    M    2000
+DL-3C-8919    Hyundai   Excent    2015    4    Silver   AC    M    2200
+DL-4C-1944    Maruti    Santro    2012    4    Grey     AC    M    2200
+DL-2C-9173    Honda     Civic     2017    4    White    AC    A    2800
