@@ -1,0 +1,12 @@
+Customer Name : Naveen
+Customer id : 12
+Phone Number : 8910381752
+Car Rented : 
+DL-2C-9173    Honda     Civic     2017    4    White    AC    A    2800
+________________________________________________________________________
+Customer Name : Naman
+Customer id : 123
+Phone Number : 7838909138
+Car Rented : 
+DL-9C-0158    Honda     Jazz      2014    4    Red      AC    M    2200    
+________________________________________________________________________
